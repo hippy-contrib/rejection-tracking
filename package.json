@@ -1,0 +1,20 @@
+{
+  "name": "@hippy/rejection-tracking-polyfill",
+  "version": "1.0.0",
+  "description": "Promise unhandled rejection polyfill for iOS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hippy-contrib/rejection-tracking.git"
+  },
+  "keywords": [
+    "hippy",
+    "Promise",
+    "unhandledRejection",
+    "polyfill"
+  ],
+  "bugs": {
+    "url": "https://github.com/hippy-contrib/rejection-tracking/issues"
+  },
+  "homepage": "https://github.com/hippy-contrib/rejection-tracking#README.md"
+}
